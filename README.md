@@ -38,11 +38,11 @@ I used [Anaconda](https://www.continuum.io/downloads) for this project
    3- What the community areas have the highest rate of crimes in Chicago?
  
  ### File Descriptions
- 1- [Crimes In Chicago Cleaning.ipynb](https://git.generalassemb.ly/ahlampdx/ChicagoCrimes/blob/master/Crimes%20In%20Chicago%20Cleaning.ipynb): a code to clean the dataset from missing data, outliers, duplicates and so on. 
+ 1- [Crimes In Chicago Cleaning.ipynb](https://github.com/ahlampdx/ChicagoCrimes/blob/master/Crimes%20In%20Chicago%20Cleaning.ipynb): a code to clean the dataset from missing data, outliers, duplicates and so on. 
  
- 2- [Crimes in Chicago EDA.ipynb](https://git.generalassemb.ly/ahlampdx/ChicagoCrimes/blob/master/Crimes%20in%20Chicago%20EDA.ipynb): This file has a code to explore the data
+ 2- [Crimes in Chicago EDA.ipynb](https://github.com/ahlampdx/ChicagoCrimes/blob/master/Crimes%20in%20Chicago%20EDA.ipynb): This file has a code to explore the data
  
-3- [communityAreaStatistics.csv](https://git.generalassemb.ly/ahlampdx/ChicagoCrimes/blob/master/communityAreaStatistics.csv) : extra file to explore if there is a link between the demographic of the communities and its crime rate
+3- [Crimes in Chicago Modeling.ipynb](https://github.com/ahlampdx/ChicagoCrimes/blob/master/Crimes%20in%20Chicago%20Modeling.ipynb) : This file has a code to model the dataset
  
  
  ### Result
